@@ -5,9 +5,7 @@ authors = [
 ]
 readme = "README.rst"
 license = {file = "LICENSE"}
-requires_python = "^3.8"
-homepage = "https://github.com/gesellkammer/rtmidi2"
-repository = "https://github.com/gesellkammer/rtmidi2"
+requires-python = ">=3.8"
 
 classifiers = [
     "Topic :: Software Development"
@@ -23,3 +21,6 @@ requires = [
 
 build-backend = "setuptools.build_meta"
 
+[project.urls]
+homepage = "https://github.com/gesellkammer/rtmidi2"
+repository = "https://github.com/gesellkammer/rtmidi2"
