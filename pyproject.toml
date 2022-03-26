@@ -4,7 +4,7 @@ authors = [
     { name = "Eduardo Moguillansky", email = "eduardo.moguillansky@gmail.com" }
 ]
 readme = "README.rst"
-license = {1 = "LICENSE"}
+license = {file = "LICENSE"}
 requires_python = "^3.8"
 homepage = "https://github.com/gesellkammer/rtmidi2"
 repository = "https://github.com/gesellkammer/rtmidi2"
